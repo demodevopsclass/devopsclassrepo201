@@ -1,2 +1,2 @@
 # devopsclassrepo201
-create reop for devops
+create repo for devops
